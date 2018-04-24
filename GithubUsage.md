@@ -5,3 +5,4 @@
 - `git add filepath` 先打几个字母，再Tab
 - `git commit -m "注释"`添加注释
 - `git push`同步到github远程仓库
+git 
